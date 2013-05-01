@@ -1,0 +1,14 @@
+programming assignment 1
+
+for this assignment I implemented several methods
+
+in my removal method The run time was O(N) because I simply had to find the node in the list i and either subtract from its counter or change the links before and after it
+
+in my add methods, the run time was N because I either had to search the list for the right spot to insert the node or find it and add to it's counter.it's best case run time was 0 when I 
+knew there was nothing to change.
+
+the print method's run time was O(N) because it just printed off each item in the list.
+
+the reversal sorts run time was O (n) because all it did was run down the list swapping prev and nexts;
+
+I attempted to implement an Insertion sort whose run time would have been O(N log n)
