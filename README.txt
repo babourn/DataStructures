@@ -1,4 +1,6 @@
-DataStructures
+Data Structures
+Brian Bourn
+bab2177@columbia.edu
 ==============
 
 This is my Repository for Data Structures and Algorithms in Java with Shlomo Herkshop.
